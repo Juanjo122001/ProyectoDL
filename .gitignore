@@ -216,5 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-trustpilot-reviews-123k.csv
-*.csv
